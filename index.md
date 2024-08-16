@@ -1,4 +1,9 @@
 # Salish Sea Geofence
+<p></p>
+<div align="center">
+<img align="center" src="/images/800px-Eelgrass_(Zostera_marina)_-_iNaturalist.org.jpg"/>
+<figcaption>The common eelgrass or seawrack - Zostera subg. Zostera marina Linnaeus, Photograph taken in La Haute-Côte-Nord Regional County Municipality, Quebec, Canada (May 28, 2009).</figcaption><br>
+</div>
 ## Description
 This is a website to promote a proposal to build a prototype of software that uses a “GeoFence” to alert boaters when they are inside the eelgrass zone, a common feature of the nearshore region in the San Juan Islands, and inform them that dropping their anchor in this area is not ethical or wise. First because Native eelgrass is a foundational species that sequesters carbon and provides valued ecological, economic and cultural services that are protected by federal, state, county and Tribal governments. 
 and second submerged habitats in this zone do not insure a safe anchorage;   
